@@ -1,0 +1,13 @@
+! 7/21/2020 https://github.com
+github.com##main #dashboard .news [data-repository-hovercards-enabled] .fork
+github.com##main #dashboard .news [data-repository-hovercards-enabled] .watch_started
+github.com##aside[aria-label="Explore"]
+github.com##header nav a[href="/marketplace"]
+github.com##header nav a[href="/explore"]
+github.com##div.footer
+github.com##main div#dashboard.dashboard div.news div.mt-4.text-gray.f6
+github.com##div.news form.ajax-pagination-form.js-ajax-pagination[method="get"][action^="/dashboard-feed?page="]
+
+! 7/21/2020 https://old.reddit.com
+old.reddit.com##section.listingsignupbar.infobar
+old.reddit.com##.premium-banner
